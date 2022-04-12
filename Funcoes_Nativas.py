@@ -37,7 +37,13 @@
 # str.split(sep=‘‘ ’’)                                 Divide str em sub-strings de acordo com o separador sep,
 #                                                      por padr˜ao “ ”
 
-# str.strip()                                          Remove, se houver, espacos do inıcio e do final da string
+# str.strip()                                          Remove, se houver, espacos do inıcio e do final da string (rstrip -> right, lstrip -> left)
+# (-).join(str)                                        Junta todos os elementos de uma lista com o carctere '-'
+
+# str.upper()                                          Transforma todas as letras da string em maiúsculo
+# str.lower()                                          Faz as letras da string serem minusculas
+# str.capitalize()                                     Faz a primeira letra da string ser maiúscula
+# str.title()                                          Faz a primeira letra de cada palavra ser maiúscula
 
 # -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 # FUNCOES DE LISTAS
