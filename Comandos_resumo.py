@@ -35,7 +35,7 @@
 # TUPLAS SAO PARECIDAS COM LISTAS POREM TEM TAMANHO FIXO E NAO PODEM SER ALTERADAS
 
 # nome_tupla = ("Ana", 22, 1.67)
-# # print com strigs tambem funciona
+# # formas de print de strigs tambem funciona aqui
 
 # -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 # DICIONARIO E TIPO TABELA-HASH, PAR CHAVE-VALOR
@@ -68,6 +68,7 @@
 # print("Nome:", nome, "|| Idade:", idade)
 #
 # print("Nome: %s || Idade: %d || Peso: %.2f" % (nome, idade, peso))
+# print("Nome: {} || Idade: {} || Peso: {:.2f}".format(nome, idade, peso))
 
 # -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 # TIPOS DE OPERADORES (ARITIMETICOS, LOGICOS E PERTINENCIA)
